@@ -1,0 +1,10 @@
+type Query {
+  getData(id: String!): String
+}
+type Mutation {
+  sendMessage(mail: String!, message: String): String
+}
+type Profile {
+  mail: String!
+  message: String!
+}
