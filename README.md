@@ -1,3 +1,12 @@
+video demo of the react app
+https://drive.google.com/file/d/11ZJpKrOGH-xsucPloQjcusyrjUjlo8uR/view?usp=sharing
+
+demo run of server on localhost:
+4000<img width="1440" alt="Screenshot 2021-05-21 at 10 58 47 AM" src="https://user-images.githubusercontent.com/75434622/119087104-2eb2f080-ba24-11eb-8de1-21a95aa4baec.png">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
